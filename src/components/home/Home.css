@@ -1,0 +1,25 @@
+.titulo {
+    color: rgb(38, 38, 147);
+    margin-top: 70px;
+    margin-left: 20px;
+    font-size: 60px;
+
+}
+
+.sub {
+    color: rgb(70, 181, 228);
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 30px;
+
+}
+
+.fundoimg {
+    width: 600px;
+    margin-left: 700px;
+    margin-top: -100px;
+}
+
+.bg {
+    background-color:#f7ffff;
+}
